@@ -1,4 +1,4 @@
-#Journal Revew #01 
+#Journal Review #01 
 ##Date: 19-May-2014
 ##itle: A few Useful Things to Know about Machine Learning
 ##By Pedro Domingos
